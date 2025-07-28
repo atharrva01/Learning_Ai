@@ -1,4 +1,4 @@
-# Learning_Ai 🚀
+# Learning_PYTHON 🚀
 
 This repository contains my step-by-step journey through the **Python Fundamentals** course by FutureSkills Prime.  
 Each session is structured as a Jupyter Notebook containing detailed notes, code examples, and personal insights.
